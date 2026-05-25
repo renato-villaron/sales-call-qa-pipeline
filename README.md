@@ -76,8 +76,7 @@ response = client.chat.completions.create(
         },
         {
             "role": "user",
-            "content": transcript
-        }
+            "content": transcript        }
     ]
 )
 
@@ -103,5 +102,5 @@ LLMs + audio = powerful QA — this approach generalizes to any industry with hi
 
 
  Contact
-Built by [Your Name] · [LinkedIn] · [Email]
+Built by [Renato Villaron] · [joserenatovillaron@gmail.com]
 Open to remote opportunities in Revenue Operations, Sales Analytics, and Data Engineering.
