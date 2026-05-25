@@ -78,7 +78,7 @@ Each output is structured so results can be aggregated across hundreds of calls 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 
