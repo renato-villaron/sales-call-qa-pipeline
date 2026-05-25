@@ -15,7 +15,7 @@ The company processed **~140 sales calls per day**, Monday through Friday. Manua
 
 ---
 
-## ⚙️ Solution Overview
+##  Solution Overview
 
 A fully automated Python pipeline that:
 
@@ -151,7 +151,7 @@ df.to_excel("qa_report.xlsx", index=False)
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Built by [Renato Villaron] · [joserenatovillaron@gmail.com]  
 Open to remote opportunities in Revenue Operations, Sales Analytics, and Data Engineering.
