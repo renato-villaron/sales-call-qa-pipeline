@@ -1,10 +1,10 @@
-# 📞 Sales Call QA Pipeline — Automated Quality Analysis at Scale
+#  Sales Call QA Pipeline — Automated Quality Analysis at Scale
 
 > Replaced a **10-person monitoring team** by automating the end-to-end analysis of **21,000+ sales calls** over 7 months using Whisper + GPT and Python.
 
 ---
 
-## 🧩 The Problem
+##  The Problem
 
 The company processed **~140 sales calls per day**, Monday through Friday. Manually reviewing each call for quality assurance required a large team listening to hours of audio — slow, expensive, and unscalable.
 
@@ -40,7 +40,7 @@ Google Drive (audios)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Tool |
 |---|---|
@@ -53,20 +53,20 @@ Google Drive (audios)
 
 ---
 
-## 📊 QA Analysis Criteria
+##  QA Analysis Criteria
 
 Each call is evaluated by GPT on the following dimensions:
 
-- ✅ **Script Adherence** — Did the rep follow the approved sales script?
-- 🚨 **Fraud Detection** — Were any prohibited sales tactics or false inducements used?
-- 📋 **Data Accuracy** — Does the verbal agreement match the contract details (name, plan, price)?
-- 🗣️ **Communication Quality** — Clarity, professionalism, and customer handling
+-  **Script Adherence** — Did the rep follow the approved sales script?
+-  **Fraud Detection** — Were any prohibited sales tactics or false inducements used?
+-  **Data Accuracy** — Does the verbal agreement match the contract details (name, plan, price)?
+-  **Communication Quality** — Clarity, professionalism, and customer handling
 
 Each output is structured so results can be aggregated across hundreds of calls in a single Excel sheet.
 
 ---
 
-## 📈 Results
+##  Results
 
 | Metric | Value |
 |---|---|
@@ -143,7 +143,7 @@ df.to_excel("qa_report.xlsx", index=False)
 
 ---
 
-## 💡 Key Takeaways
+##  Key Takeaways
 
 - **No dedicated GPU required** — Google Colab T4 handles Whisper at scale for free
 - **Prompt engineering matters** — structured JSON outputs from GPT make ETL trivial
@@ -153,5 +153,5 @@ df.to_excel("qa_report.xlsx", index=False)
 
 ## 📬 Contact
 
-Built by [Your Name] · [LinkedIn] · [Email]  
+Built by [Renato Villaron] · [joserenatovillaron@gmail.com]  
 Open to remote opportunities in Revenue Operations, Sales Analytics, and Data Engineering.
