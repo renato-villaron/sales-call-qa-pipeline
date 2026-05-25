@@ -153,5 +153,6 @@ df.to_excel("qa_report.xlsx", index=False)
 
 ##  Contact
 
-Built by [Renato Villaron] · [joserenatovillaron@gmail.com]  
+Built by [Renato Villaron] · [joserenatovillaron@gmail.com] · [Linkedin](www.linkedin.com/in/
+renato-villaron)
 Open to remote opportunities in Revenue Operations, Sales Analytics, and Data Engineering.
